@@ -6,5 +6,7 @@
 
 ###
 
-## Установка
-- Скачайте данный репозиторий в зип зип зип
+## Использование
+- **Скачайте данный репозиторий** (можно по *[этой ссылке](https://github.com/kryyyaaaa/discord-webhook-crasher-pack/archive/refs/heads/main.zip)*)
+- **Проанализируйте нужный .exe файл при помощи [UncoverIt](https://www.uncoverit.org/) или батника uncoverit.org.cmd**
+- **Поиграйтесь с вебхуком при помощи других батников**
